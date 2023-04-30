@@ -1,0 +1,13 @@
+F:\Code\C#\SampleSimpleSchool\School\bin\Debug\School.exe.config
+F:\Code\C#\SampleSimpleSchool\School\bin\Debug\School.exe
+F:\Code\C#\SampleSimpleSchool\School\bin\Debug\School.pdb
+F:\Code\C#\SampleSimpleSchool\School\bin\Debug\EntityFramework.dll
+F:\Code\C#\SampleSimpleSchool\School\bin\Debug\EntityFramework.SqlServer.dll
+F:\Code\C#\SampleSimpleSchool\School\bin\Debug\EntityFramework.xml
+F:\Code\C#\SampleSimpleSchool\School\bin\Debug\EntityFramework.SqlServer.xml
+F:\Code\C#\SampleSimpleSchool\School\obj\Debug\School.csproj.AssemblyReference.cache
+F:\Code\C#\SampleSimpleSchool\School\obj\Debug\School.csproj.SuggestedBindingRedirects.cache
+F:\Code\C#\SampleSimpleSchool\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+F:\Code\C#\SampleSimpleSchool\School\obj\Debug\School.csproj.CopyComplete
+F:\Code\C#\SampleSimpleSchool\School\obj\Debug\School.exe
+F:\Code\C#\SampleSimpleSchool\School\obj\Debug\School.pdb
